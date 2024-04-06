@@ -22,14 +22,7 @@ To install the required Python packages, execute in the terminal:
 bash: pip install -r requirements.txt
 
 
-# 3. Usage
-## 3.1 Training the Model
-
-To train the model with the provided dataset, execute:
-bash: python train_model.py --dataset_path /path/to/your/dataset
-
-
-## 3.2 Making Predictions
+# 3 Making Predictions
 
 To make predictions using a pre-trained model, execute:
 ```
@@ -43,20 +36,13 @@ Due to proprietary restrictions, it is not publicly available. Contact the corre
 for dataset inquiries.
 
 
-# 5. Contributing
-
-Contributions to improve the models and code are welcome. Fork the repository and submit pull
-requests for minor changes. For significant modifications, please open an issue first to discuss
-what you would like to change.
-
-
-# 6. License
+# 5. License
 
 The code is available for viewing and academic purposes under strict usage restrictions. Any
 form of reproduction, distribution, or commercial use without explicit permission is prohibited.
 
 
-# 7. Citation
+# 6. Citation
 
 If utilizing this work in research or for academic purposes, please cite as follows:
 @article{Akca2024,
@@ -67,13 +53,13 @@ If utilizing this work in research or for academic purposes, please cite as foll
 }
 
 
-# 8. Contact Information
+# 7. Contact Information
 
 - Benan Akca (benanakca@marun.edu.tr)
 - Marmara University, Electrical-Electronics Engineering Dept., Istanbul, Turkiye
 
 
-# 9. Acknowledgments
+# 8. Acknowledgments
 
 Supported in part by The Scientific and Technological Research Council of Turkey
 (TUBITAK) under Project number 118C067.
