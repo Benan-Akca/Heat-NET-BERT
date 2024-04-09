@@ -42,24 +42,14 @@ The code is available for viewing and academic purposes under strict usage restr
 form of reproduction, distribution, or commercial use without explicit permission is prohibited.
 
 
-# 6. Citation
 
-If utilizing this work in research or for academic purposes, please cite as follows:
-@article{Akca2024,
-  title={AI-Enhanced Design and Manufacture Process for Low-E Glass Coating},
-  author={Benan Akca et al.},
-  journal={Nature Journal},
-  year={2024}
-}
-
-
-# 7. Contact Information
+# 6. Contact Information
 
 - Benan Akca (benanakca@marun.edu.tr)
 - Marmara University, Electrical-Electronics Engineering Dept., Istanbul, Turkiye
 
 
-# 8. Acknowledgments
+# 7. Acknowledgments
 
 Supported in part by The Scientific and Technological Research Council of Turkey
 (TUBITAK) under Project number 118C067.
