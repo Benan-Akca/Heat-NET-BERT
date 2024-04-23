@@ -22,13 +22,19 @@ To install the required Python packages, execute in the terminal:
 bash: pip install -r requirements.txt
 
 
-# 3 Making Predictions
+# 3 Running Code
+To generate the BERT embeddings and get 2 dimensional UMAP transformation of embeddings run the below code. It will save the umap_embedding.h5 file to output_path
 
-To make predictions using a pre-trained model, execute:
 ```
-bash: python predict.py --model_path /path/to/your/model --input_data /path/to/your/input_data
+bash: python bert_embedding_generator.py --thickness_path DATA_BUCKET/df_thickness.h5 --material_names_path DATA_BUCKET/df_stack.h5 --output_path DATA_BUCKET/umap_embedding.h5
+
 ```
 
+To train the model and evaluate results
+```
+bash: python training_and_evaluation.py
+```
+The results wil be saved under experiments folder both individually and cumulatively
 # 4. Dataset
 
 The dataset comprises pre- and post-heat treatment optical measurements of low-E glass coatings.
