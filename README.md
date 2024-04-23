@@ -40,7 +40,7 @@ The results wil be saved under experiments folder both individually and cumulati
 The dataset comprises pre- and post-heat treatment optical measurements of low-E glass coatings.
 Due to proprietary restrictions, it is not publicly available. Contact the corresponding author
 for dataset inquiries.
-
+The current dataset in the reposetory is a synthetic dataset to show the data structure of a real data.
 
 # 5. License
 
